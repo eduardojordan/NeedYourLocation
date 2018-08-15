@@ -13,6 +13,10 @@
 		A0183D0B2122FEDB00ACE89E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0183D0A2122FEDB00ACE89E /* Assets.xcassets */; };
 		A0183D0E2122FEDB00ACE89E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0183D0C2122FEDB00ACE89E /* LaunchScreen.storyboard */; };
 		A0183D162122FF0B00ACE89E /* location-permission.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A0183D152122FF0B00ACE89E /* location-permission.pdf */; };
+		A0183D1B212493F900ACE89E /* IC Attach Money 24px.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A0183D17212493F800ACE89E /* IC Attach Money 24px.pdf */; };
+		A0183D1C212493F900ACE89E /* IC Store 24px.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A0183D18212493F800ACE89E /* IC Store 24px.pdf */; };
+		A0183D1D212493F900ACE89E /* IC Query Builder 24px.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A0183D19212493F900ACE89E /* IC Query Builder 24px.pdf */; };
+		A0183D1E212493F900ACE89E /* IC Star 24px.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A0183D1A212493F900ACE89E /* IC Star 24px.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		A0183D0D2122FEDB00ACE89E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0183D0F2122FEDB00ACE89E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0183D152122FF0B00ACE89E /* location-permission.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "location-permission.pdf"; sourceTree = "<group>"; };
+		A0183D17212493F800ACE89E /* IC Attach Money 24px.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "IC Attach Money 24px.pdf"; sourceTree = "<group>"; };
+		A0183D18212493F800ACE89E /* IC Store 24px.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "IC Store 24px.pdf"; sourceTree = "<group>"; };
+		A0183D19212493F900ACE89E /* IC Query Builder 24px.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "IC Query Builder 24px.pdf"; sourceTree = "<group>"; };
+		A0183D1A212493F900ACE89E /* IC Star 24px.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "IC Star 24px.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +49,10 @@
 			isa = PBXGroup;
 			children = (
 				A0183D152122FF0B00ACE89E /* location-permission.pdf */,
+				A0183D17212493F800ACE89E /* IC Attach Money 24px.pdf */,
+				A0183D19212493F900ACE89E /* IC Query Builder 24px.pdf */,
+				A0183D1A212493F900ACE89E /* IC Star 24px.pdf */,
+				A0183D18212493F800ACE89E /* IC Store 24px.pdf */,
 				A0183D022122FED900ACE89E /* RestaurantApp2 */,
 				A0183D012122FED900ACE89E /* Products */,
 			);
@@ -126,7 +138,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0183D0E2122FEDB00ACE89E /* LaunchScreen.storyboard in Resources */,
+				A0183D1D212493F900ACE89E /* IC Query Builder 24px.pdf in Resources */,
 				A0183D0B2122FEDB00ACE89E /* Assets.xcassets in Resources */,
+				A0183D1C212493F900ACE89E /* IC Store 24px.pdf in Resources */,
+				A0183D1E212493F900ACE89E /* IC Star 24px.pdf in Resources */,
+				A0183D1B212493F900ACE89E /* IC Attach Money 24px.pdf in Resources */,
 				A0183D162122FF0B00ACE89E /* location-permission.pdf in Resources */,
 				A0183D092122FED900ACE89E /* Main.storyboard in Resources */,
 			);
